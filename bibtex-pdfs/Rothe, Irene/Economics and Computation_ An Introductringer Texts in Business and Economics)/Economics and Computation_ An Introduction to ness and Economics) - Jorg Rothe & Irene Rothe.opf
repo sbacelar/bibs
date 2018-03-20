@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">372</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4c13f41-a3dd-490e-8723-7adbd1f6a30f</dc:identifier>
+        <dc:title>Economics and Computation: An Introduction to Algorithmic Game Theory, Computational Social Choice, and Fair Division (Springer Texts in Business and Economics)</dc:title>
+        <dc:creator opf:file-as="Rothe, Jörg &amp; Rothe, Irene" opf:role="aut">Jörg Rothe</dc:creator>
+        <dc:creator opf:file-as="Rothe, Jörg &amp; Rothe, Irene" opf:role="aut">Irene Rothe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.80.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;This textbook connects three vibrant areas at the interface between economics and computer science: algorithmic game theory, computational social choice, and fair division. It thus offers an interdisciplinary treatment of collective decision making from an economic and computational perspective. Part I introduces to algorithmic game theory, focusing on both noncooperative and cooperative game theory. Part II introduces to computational social choice, focusing on both preference aggregation (voting) and judgment aggregation. Part III introduces to fair division, focusing on the division of both a single divisible resource ("cake-cutting") and multiple indivisible and unshareable resources ("multiagent resource allocation"). In all these parts, much weight is given to the algorithmic and complexity-theoretic aspects of problems arising in these areas, and the interconnections between the three parts are of central interest.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;This textbook connects three vibrant areas at the interface between economics and computer science: algorithmic game theory, computational social choice, and fair division. It thus offers an interdisciplinary treatment of collective decision making from an economic and computational perspective. Part I introduces to algorithmic game theory, focusing on both noncooperative and cooperative game theory. Part II introduces to computational social choice, focusing on both preference aggregation (voting) and judgment aggregation. Part III introduces to fair division, focusing on the division of both a single divisible resource ("cake-cutting") and multiple indivisible and unshareable resources ("multiagent resource allocation"). In all these parts, much weight is given to the algorithmic and complexity-theoretic aspects of problems arising in these areas, and the interconnections between the three parts are of central interest.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Dorothea Baumeister&lt;/strong&gt; from Heinrich-Heine-Universität Düsseldorf, Germany, has coauthored Chapter 4 on preference aggregation by voting and Chapter 6 on judgment aggregation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edith Elkind&lt;/strong&gt; from University of Oxford, UK, has coauthored Chapter 3 on cooperative game theory.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gábor Erdélyi&lt;/strong&gt; from University of Siegen, Germany, has coauthored Chapter 6 on judgment aggregation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Piotr Faliszewski&lt;/strong&gt; from AGH University of Science and Technology in Kraków, Poland, has coauthored Chapter 2 on noncooperative game theory.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edith Hemaspaandra&lt;/strong&gt; from Rochester Institute of Technology, USA, has coauthored Chapter 5 on the complexity of manipulative actions in single-peaked societies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lane A. Hemaspaandra&lt;/strong&gt; from University of Rochester, USA, also has coauthored Chapter 5 on the complexity of manipulative actions in single-peaked societies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jérôme Lang&lt;/strong&gt; from CNRS-LAMSADE, Université Paris-Dauphine, France, has coauthored Chapter 8 on fair division of indivisible goods.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Claudia Lindner&lt;/strong&gt; from University of Manchester, UK, has coauthored Chapter 7 on cake-cutting: fair division of divisible goods.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Irene Rothe&lt;/strong&gt; from Bonn-Rhein-Sieg University of Applied Sciences, Germany, has coauthored Chapter 2 on noncooperative game theory.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jörg Rothe&lt;/strong&gt; from Heinrich-Heine-Universität Düsseldorf, Germany, has written introductory Chapter 1 and has coauthored Chapters 2–8.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Springer</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783662479032</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">3662479036</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Jörg Rothe&quot;: &quot;&quot;, &quot;Irene Rothe&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2016-09-06T09:01:38+00:00" name="calibre:timestamp"/>
+        <meta content="Economics and Computation: An Introduction to Algorithmic Game Theory, Computational Social Choice, and Fair Division (Springer Texts in Business and Economics)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;name&quot;: &quot;Formats&quot;, &quot;is_csp&quot;: false, &quot;#extra#&quot;: null, &quot;is_category&quot;: false, &quot;is_custom&quot;: true, &quot;kind&quot;: &quot;field&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;is_multiple2&quot;: {}, &quot;link_column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 22, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;#value#&quot;: &quot;PDF&quot;, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;contains_html&quot;: false}, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1}"/>
+        <meta name="calibre:user_metadata:#isbn" content="{&quot;name&quot;: &quot;ISBN&quot;, &quot;is_csp&quot;: false, &quot;#extra#&quot;: null, &quot;is_category&quot;: false, &quot;is_custom&quot;: true, &quot;kind&quot;: &quot;field&quot;, &quot;search_terms&quot;: [&quot;#isbn&quot;], &quot;is_multiple2&quot;: {}, &quot;link_column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;#value#&quot;: &quot;9783662479032&quot;, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;composite_template&quot;: &quot;{identifiers:select(isbn)}&quot;, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;contains_html&quot;: false}, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;label&quot;: &quot;isbn&quot;, &quot;colnum&quot;: 2}"/>
+    </metadata>
+    <guide>
+        <reference href="Economics and Computation_ An Introduction to ness and Economics) - Jorg Rothe &amp; Irene Rothe.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,42 @@
+
+** TODO 2014 - Behavioral Labor Economics: Advances and Future  Directions
+ :PROPERTIES:
+  :Custom_ID: dohmen-2014-behav
+  :AUTHOR: Thomas Dohmen
+  :JOURNAL: Labour Economics
+  :YEAR: 2014
+  :VOLUME: 30
+  :PAGES: 71-85
+  :DOI: 10.1016/j.labeco.2014.06.008
+  :URL: http://dx.doi.org/10.1016/j.labeco.2014.06.008
+ :END:
+[[cite:dohmen-2014-behav]] [[file:~/Dropbox/bibliography/bibtex-pdfs//dohmen-2014-behav.pdf][pdf]]
+
+
+** TODO 2016 - A Life-Cycle Model With Ambiguous Survival Beliefs
+ :PROPERTIES:
+  :Custom_ID: groneck-2016
+  :AUTHOR: Max Groneck, Alexander Ludwig, Alexander \& Zimper
+  :JOURNAL: Journal of Economic Theory
+  :YEAR: 2016
+  :VOLUME: 162
+  :PAGES: 137-180
+  :DOI: 10.1016/j.jet.2015.12.008
+  :URL: http://dx.doi.org/10.1016/j.jet.2015.12.008
+ :END:
+[[cite:groneck-2016]] [[file:~/Dropbox/bibliography/bibtex-pdfs//groneck-2016.pdf][pdf]]
+
+
+** TODO 2014 - Behavioral Labor Economics: Advances and Future  Directions
+ :PROPERTIES:
+  :Custom_ID: dohmen14:_behav_labor_econom
+  :AUTHOR: Thomas Dohmen
+  :JOURNAL: Labour Economics
+  :YEAR: 2014
+  :VOLUME: 30
+  :PAGES: 71-85
+  :DOI: 10.1016/j.labeco.2014.06.008
+  :URL: http://dx.doi.org/10.1016/j.labeco.2014.06.008
+ :END:
+[[cite:dohmen14:_behav_labor_econom]] [[file:/Users/sergiobacelar/Dropbox/bibliography/no pdf][pdf]]
+

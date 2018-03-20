@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9904fc73-63a2-4e27-b3e9-c0b7470a64b2</dc:identifier>
+        <dc:title>Pension Economics</dc:title>
+        <dc:creator opf:file-as="Blake, David" opf:role="aut">David Blake</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.63.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"I have never seen such a concise description of pension institutions that was so crystal clear." (_Investments &amp;amp; Pensions Europe_, February 2007)&lt;/p&gt;&lt;p&gt;"Informative without being patronizing and set out in a logical sequence with each chapter containing questions to help the reader consolidate what they have just learnt." (_Pensions Age_, December 2006)&lt;/p&gt;&lt;p&gt;"If you are looking for a solid grounding in the theory and practice of economics in relation to pensions this is a vital addition to your bookshelf." (_.net,_ August 2007) &lt;/p&gt;&lt;h3&gt;From the Inside Flap&lt;/h3&gt;&lt;p&gt;"Given the retirement funding crisis faced by many countries across the globe, this is a must read not only for every pension economist, but also for pension lawyers, pension accountants, retirement plan advisors, investment managers, corporate executives and pension policy makers."&lt;br&gt;—&lt;strong&gt;Professor Shlomo Benartzi&lt;/strong&gt;, Co-chair of the Behavioral Decision Making Group, The Anderson School, UCLA &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470058442</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">6GfAhjAdBKYC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0470058447</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Investments &amp; Securities</dc:subject>
+        <dc:subject>Retirement Planning</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>phdsb</dc:subject>
+        <dc:subject>Old Age Pensions</dc:subject>
+        <dc:subject>Pension Law</dc:subject>
+        <dc:subject>Personal Finance</dc:subject>
+        <dc:subject>Econometric Models</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Pension Trusts</dc:subject>
+        <dc:subject>Investments</dc:subject>
+        <dc:subject>Portfolio Management</dc:subject>
+        <dc:subject>Law</dc:subject>
+        <dc:subject>Portfolio Management - Econometric Models</dc:subject>
+        <dc:subject>Pension Trusts - Investments - Econometric Models</dc:subject>
+        <dc:subject>Pensions</dc:subject>
+        <dc:subject>retirement</dc:subject>
+        <meta content="{&quot;David Blake&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2011-08-09T13:17:09+00:00" name="calibre:timestamp"/>
+        <meta content="Pension Economics" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#isbn" content="{&quot;is_multiple&quot;: null, &quot;#value#&quot;: &quot;9780470058442&quot;, &quot;is_multiple2&quot;: {}, &quot;is_csp&quot;: false, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#isbn&quot;], &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;ISBN&quot;, &quot;colnum&quot;: 2, &quot;#extra#&quot;: null, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;composite_template&quot;: &quot;{identifiers:select(isbn)}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;use_decorations&quot;: 0}, &quot;label&quot;: &quot;isbn&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_category&quot;: false, &quot;is_custom&quot;: true, &quot;category_sort&quot;: &quot;value&quot;}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_multiple&quot;: null, &quot;#value#&quot;: &quot;PDF&quot;, &quot;is_multiple2&quot;: {}, &quot;is_csp&quot;: false, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formats&quot;, &quot;colnum&quot;: 1, &quot;#extra#&quot;: null, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;use_decorations&quot;: 0}, &quot;label&quot;: &quot;formats&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_category&quot;: false, &quot;is_custom&quot;: true, &quot;category_sort&quot;: &quot;value&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

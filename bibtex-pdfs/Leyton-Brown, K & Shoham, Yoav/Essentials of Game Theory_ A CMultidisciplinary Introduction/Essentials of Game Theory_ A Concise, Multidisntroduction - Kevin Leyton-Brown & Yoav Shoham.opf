@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3503e85-679e-4c66-9008-3adf36b43cd5</dc:identifier>
+        <dc:title>Essentials of Game Theory: A Concise, Multidisciplinary Introduction</dc:title>
+        <dc:creator opf:file-as="Leyton-Brown, Kevin &amp; Shoham, Yoav" opf:role="aut">Kevin Leyton-Brown</dc:creator>
+        <dc:creator opf:file-as="Leyton-Brown, Kevin &amp; Shoham, Yoav" opf:role="aut">Yoav Shoham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.80.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Game theory is the mathematical study of interaction among independent, self-interested agents. The audience for game theory has grown dramatically in recent years, and now spans disciplines as diverse as political science, biology, psychology, economics, linguistics, sociology, and computer science, among others. What has been missing is a relatively short introduction to the field covering the common basis that anyone with a professional interest in game theory is likely to require. Such a text would minimize notation, ruthlessly focus on essentials, and yet not sacrifice rigor. This Synthesis Lecture aims to fill this gap by providing a concise and accessible introduction to the field. It covers the main classes of games, their representations, and the main concepts used to analyze them. Table of Contents: Games in Normal Form / Analyzing Games: From Optimality to Equilibrium / Further Solution Concepts for Normal-Form Games / Games with Sequential Actions: The Perfect-information Extensive Form / Generalizing the Extensive Form: Imperfect-Information Games / Repeated and Stochastic Games / Uncertainty about Payoffs: Bayesian Games / Coalitional Game Theory / History and References / Index&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Kevin Leyton-Brown is an Assistant Professor of Computer Science at the University of British Columbia. His affiliations include the Laboratory for Computational Intelligence (LCI) and the Bioinformatics, and Empirical and Theoretical Algorithmics Laboratory (BETA-Lab) and membership on the editorial board of the Journal of AI Research (JAIR).  &lt;/p&gt;&lt;p class="description"&gt;
+
+
+&lt;/p&gt;&lt;p&gt;Yoav Shoham is Professor of Computer Science at Stanford University, where he has been since receiving his PhD in computer science from Yale University in 1987. Shoham is a Fellow of the Association for Advancement of Artificial Intelligence (AAAI) and charter member of the International Game Theory Society. Aside from authoring four books and numerous other works, he is director of TARK (Theoretical Aspects of Rationality and Knowledge), a non-profit organization. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Morgan &amp; Claypool Publishers</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781598295931</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">u8sDLATVJikC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1598295934</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Intelligence (AI) &amp; Semantics</dc:subject>
+        <dc:subject>toread</dc:subject>
+        <meta content="{&quot;Kevin Leyton-Brown&quot;: &quot;&quot;, &quot;Yoav Shoham&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2015-02-26T15:58:58+00:00" name="calibre:timestamp"/>
+        <meta content="Essentials of Game Theory: A Concise, Multidisciplinary Introduction" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;name&quot;: &quot;Formats&quot;, &quot;is_csp&quot;: false, &quot;#extra#&quot;: null, &quot;is_category&quot;: false, &quot;is_custom&quot;: true, &quot;kind&quot;: &quot;field&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;is_multiple2&quot;: {}, &quot;link_column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 22, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;#value#&quot;: &quot;PDF&quot;, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;contains_html&quot;: false}, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1}"/>
+        <meta name="calibre:user_metadata:#isbn" content="{&quot;name&quot;: &quot;ISBN&quot;, &quot;is_csp&quot;: false, &quot;#extra#&quot;: null, &quot;is_category&quot;: false, &quot;is_custom&quot;: true, &quot;kind&quot;: &quot;field&quot;, &quot;search_terms&quot;: [&quot;#isbn&quot;], &quot;is_multiple2&quot;: {}, &quot;link_column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;#value#&quot;: &quot;9781598295931&quot;, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;composite_template&quot;: &quot;{identifiers:select(isbn)}&quot;, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;contains_html&quot;: false}, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;label&quot;: &quot;isbn&quot;, &quot;colnum&quot;: 2}"/>
+    </metadata>
+    <guide>
+        <reference href="Essentials of Game Theory_ A Concise, Multidisntroduction - Kevin Leyton-Brown &amp; Yoav Shoham.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+\documentclass{article}
+% load biblatex with natbib compatibility options
+% compile with pdfLaTeX
+% DOES NOT WORK............................
+% Latex + Biber + Latex
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[main=english,portuguese]{babel}
+\usepackage[style=authoryear,natbib=true]{biblatex}
+%\usepackage{microtype}
+\addbibresource{calibreToRead.bib}
+\usepackage{url}
+\begin{document}
+\nocite{*}
+%See \cite{barassi2005}.
+
+\printbibliography
+
+\end{document}

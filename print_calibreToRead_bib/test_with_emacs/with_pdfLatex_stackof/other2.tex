@@ -1,0 +1,36 @@
+\documentclass{article}
+% load biblatex with natbib compatibility options
+% Compile with pdfLaTeX
+\usepackage{filecontents}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[main=english,portuguese]{babel}
+
+\begin{filecontents*}{ToRead.bib}
+@book{Simões2006,
+  address = {Lisboa},
+  author = {Simões, Luís},
+  publisher = {Routledge},
+  title = {Uma decisão que se faça},
+  year = {2006}
+}
+@book{Gilbert2007,
+  address = {London},
+  author = {Gilbert, John},
+  publisher = {Penguin},
+  title = {Give me that},
+  year = {2007}
+}
+
+\end{filecontents*}
+
+\usepackage[backend=biber,style=authoryear,natbib=true]{biblatex}
+\addbibresource{ToRead.bib}
+\usepackage{url}
+\begin{document}
+\nocite{*}
+%See \cite{barassi2005}.
+
+\printbibliography
+
+\end{document}
